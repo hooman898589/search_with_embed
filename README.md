@@ -1,4 +1,4 @@
-# 🤖  RAG AI Chat System
+# RAG AI Chat System
 
 A Retrieval Augmented Generation (RAG) based AI chatbot system built with PHP, Ollama, Qdrant Vector Database and Local LLM models.
 
@@ -6,7 +6,7 @@ This project creates an intelligent Persian AI assistant that can answer user qu
 
 ---
 
-# 📌 What is RAG?
+# What is RAG?
 
 RAG (Retrieval Augmented Generation) is an AI architecture that combines:
 
@@ -43,7 +43,7 @@ AI Generated Answer
 
 ---
 
-# 🏗 System Architecture
+# System Architecture
 
 ```
                  User
@@ -78,7 +78,7 @@ AI Generated Answer
 
 ---
 
-# 🧩 Technologies
+# Technologies
 
 | Technology | Usage |
 |-|-|
@@ -91,7 +91,7 @@ AI Generated Answer
 
 ---
 
-# 🔥 How RAG Works In This Project
+# How RAG Works In This Project
 
 ## 1. User Sends Message
 
@@ -439,7 +439,7 @@ composer install
 
 ---
 
-# 📡 API Usage
+# API Usage
 
 Endpoint:
 
@@ -471,7 +471,7 @@ Response:
 
 ---
 
-# 🔐 Advantages
+# Advantages
 
 ✅ Runs locally  
 ✅ No external AI API cost  
@@ -485,7 +485,7 @@ Response:
 
 
 
-# 🤖 سامانه چت هوش مصنوعی مبتنی بر RAG
+# سامانه چت هوش مصنوعی مبتنی بر RAG
 
 یک سیستم چت‌بات هوش مصنوعی فارسی مبتنی بر معماری **Retrieval Augmented Generation (RAG)** که با استفاده از PHP، Ollama، Qdrant و مدل‌های زبانی محلی ساخته شده است.
 
@@ -493,7 +493,7 @@ Response:
 
 ---
 
-# 📌 RAG چیست؟
+# RAG چیست؟
 
 **RAG (تولید تقویت‌شده با بازیابی اطلاعات)** یک معماری هوش مصنوعی است که دو بخش اصلی را ترکیب می‌کند:
 
@@ -543,7 +543,7 @@ Response:
 
 ---
 
-# 🏗 معماری سیستم
+# معماری سیستم
 
 ```
                  کاربر
